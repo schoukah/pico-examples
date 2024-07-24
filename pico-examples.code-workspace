@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../pico-sdk"
+		}
+	],
+	"settings": {
+		"python.languageServer": "Pylance",
+		"files.associations": {
+			"*.ejs": "html",
+			"stdlib.h": "c"
+		},
+		"dotnet.defaultSolution": "disable"
+	}
+}
